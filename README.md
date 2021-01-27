@@ -1,7 +1,7 @@
 # LineFollowingRobot
 - Track a simple line given an initial position
 - Once an obstacle is seen in 10 cm distance, the robot should stop and make a beep for two seconds
-- According to the color of the line, the robot should do one of the following tasks
+- According to the color of the line, the robot should do one of the following tasks:
 - If the line is blue:
   - the robot continues moving toward the obstacle and pushes it to the left or right, at least 10 cm
 (roughly), away from its original position and in the direction where the obstacle will be away
